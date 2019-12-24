@@ -6,7 +6,7 @@
 
 1. Install OpenVINO
 2. ```bash
-  ```git clone 
-  ```mkdir build && cd build
-  ```cmake /path/to/cloned
-  ```make
+  git clone 
+  mkdir build && cd build
+  cmake /path/to/cloned
+  make```
