@@ -5,8 +5,9 @@
 ### Usage:
 
 1. Install OpenVINO
-2. ```bash
-  git clone 
-  mkdir build && cd build
+2.```
+git clone  
+mkdir build && cd build
   cmake /path/to/cloned
-  make```
+  make`
+```
