@@ -5,9 +5,10 @@
 ### Usage:
 
 1. Install OpenVINO
-2.```
+2.
+```
 git clone  
 mkdir build && cd build
-  cmake /path/to/cloned
-  make`
+cmake /path/to/cloned
+make
 ```
